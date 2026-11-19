@@ -43,7 +43,7 @@ export default function Home() {
       <Galaxy />
 
       <header className="top">
-        <a href="#top" className="brand grad">Avinash Kumar Singh</a>
+        <a href="#top" className="brand">Avinash Kumar Singh</a>
         <nav><a href="#work">Work</a><a href="#now">Resume</a><a href="#contact">Contact</a></nav>
       </header>
 
